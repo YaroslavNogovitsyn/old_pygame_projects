@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91ea2eb7-6192-452a-b480-3be2bc085f5f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Arkanoid/ball.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arkanoid/enemy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arkanoid/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arkanoid/platform.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fast_Clicker/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Question-Answer/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arkada/bomb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arkada/cave.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arkada/enemy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arkada/lesson2/lesson2/0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arkada/lesson2/lesson2/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arkada/lesson2/lesson2/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arkada/lesson2/lesson2/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arkada/lesson2/lesson2/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arkada/lesson2/lesson2/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arkada/lesson2/lesson2/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arkada/lesson2/lesson2/cave.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arkada/lesson2/lesson2/m1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arkada/lesson2/lesson3/cave.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arkada/lesson2/lesson3/enemy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arkada/lesson2/lesson3/labirint_0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arkada/lesson2/lesson3/labirint_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arkada/lesson2/lesson3/labirint_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arkada/lesson2/lesson3/labirint_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arkada/lesson2/lesson3/labirint_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arkada/lesson2/lesson3/labirint_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arkada/lesson2/lesson3/m1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arkada/lesson2/lesson4/arcada_0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arkada/lesson2/lesson4/arcada_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arkada/lesson2/lesson4/arcada_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arkada/lesson2/lesson4/arcada_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arkada/lesson2/lesson4/arcada_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arkada/lesson2/lesson4/cave.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arkada/lesson2/lesson4/enemy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arkada/lesson2/lesson4/m1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arkada/m1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arkada/princess.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arkada/reference_code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first/1-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first/2-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first/football.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first/jungle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first/pac-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first/знакомство.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labirint/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labirint/cyborg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labirint/fail_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labirint/football.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labirint/for_lesson/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labirint/for_lesson/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labirint/for_lesson/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labirint/for_lesson/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labirint/game-over-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labirint/game-over_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labirint/game-over_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labirint/hero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labirint/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labirint/pac-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labirint/reference_code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labirint/thumb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labirint/trophy-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labirint/winner_1-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labirint_with_music/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labirint_with_music/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labirint_with_music/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labirint_with_music/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labirint_with_music/background2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labirint_with_music/background3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labirint_with_music/cyborg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labirint_with_music/hero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labirint_with_music/jungles.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labirint_with_music/kick.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labirint_with_music/money.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labirint_with_music/result.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labirint_with_music/treasure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ping-pong/ping_pong.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ping-pong/racket.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ping-pong/tenis_ball.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shuter/bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shuter/for_lesson.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shuter/galaxy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shuter/game-over.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shuter/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shuter/reference_code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shuter/rocket.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shuter/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shuter/thumb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shuter/ufo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shuter_with_music/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shuter_with_music/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shuter_with_music/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shuter_with_music/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shuter_with_music/bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shuter_with_music/fire.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shuter_with_music/galaxy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shuter_with_music/result.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shuter_with_music/rocket.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shuter_with_music/space.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shuter_with_music/ufo.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2MbNAjRhaBwbx1uXcAo84j2RxIj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/yaros/Algoritm/Github/Pygame",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91ea2eb7-6192-452a-b480-3be2bc085f5f" name="Changes" comment="" />
+      <created>1678032180836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678032180836</updated>
+      <workItem from="1678032181985" duration="316000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
